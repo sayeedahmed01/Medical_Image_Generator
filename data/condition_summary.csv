@@ -1,0 +1,167 @@
+condition_1,count,percentage
+Eczema,312,16.67
+Allergic Contact Dermatitis,192,10.26
+Urticaria,160,8.55
+Insect Bite,119,6.36
+Folliculitis,84,4.49
+Psoriasis,55,2.94
+Tinea,55,2.94
+Herpes Simplex,51,2.72
+Herpes Zoster,45,2.4
+Acne,42,2.24
+Irritant Contact Dermatitis,33,1.76
+Pityriasis rosea,32,1.71
+Tinea Versicolor,29,1.55
+Pigmented purpuric eruption,29,1.55
+"Acute dermatitis, NOS",27,1.44
+O/E - ecchymoses present,27,1.44
+Leukocytoclastic Vasculitis,23,1.23
+Impetigo,23,1.23
+Keratosis pilaris,21,1.12
+Lichen Simplex Chronicus,20,1.07
+Rosacea,20,1.07
+Molluscum Contagiosum,18,0.96
+Granuloma annulare,16,0.85
+Lichen planus/lichenoid eruption,14,0.75
+Purpura,14,0.75
+Drug Rash,13,0.69
+Seborrheic Dermatitis,13,0.69
+Perioral Dermatitis,13,0.69
+"Chronic dermatitis, NOS",13,0.69
+Hypersensitivity,12,0.64
+Verruca vulgaris,11,0.59
+Acute and chronic dermatitis,9,0.48
+Viral Exanthem,9,0.48
+Photodermatitis,9,0.48
+Stasis Dermatitis,9,0.48
+Prurigo nodularis,8,0.43
+Scar Condition,8,0.43
+Cutaneous lupus,8,0.43
+SCC/SCCIS,8,0.43
+Actinic Keratosis,7,0.37
+"Abrasion, scrape, or scab",7,0.37
+Miliaria,7,0.37
+Confluent and reticulate papillomatosis,6,0.32
+Infected eczema,6,0.32
+Cellulitis,6,0.32
+Erythema multiforme,6,0.32
+Superficial wound of body region,6,0.32
+Lichen nitidus,6,0.32
+CD - Contact dermatitis,6,0.32
+Abscess,6,0.32
+SK/ISK,5,0.27
+Basal Cell Carcinoma,5,0.27
+Hidradenitis,5,0.27
+Onychomycosis,5,0.27
+Hemangioma,5,0.27
+Intertrigo,5,0.27
+Erythema ab igne,5,0.27
+Candida intertrigo,4,0.21
+Geographic tongue,4,0.21
+Inflicted skin lesions,4,0.21
+Post-Inflammatory hyperpigmentation,4,0.21
+Paronychia,4,0.21
+O/E - petechiae on skin,4,0.21
+Ecthyma,4,0.21
+Lichenified eczematous dermatitis,3,0.16
+Lichen spinulosus,3,0.16
+Scabies,3,0.16
+Remove from labeling tool,3,0.16
+Cyst,3,0.16
+Bullous Pemphigoid,3,0.16
+Xerosis,3,0.16
+Livedo reticularis,3,0.16
+Venous Stasis Ulcer,2,0.11
+Dermatofibroma,2,0.11
+O/E - petechiae present,2,0.11
+Erythema nodosum,2,0.11
+Idiopathic guttate hypomelanosis,2,0.11
+Koebner phenomenon,2,0.11
+Animal bite - wound,2,0.11
+Lichen striatus,2,0.11
+Acanthosis nigricans,2,0.11
+Cutaneous larva migrans,2,0.11
+Morphea/Scleroderma,2,0.11
+Hand foot and mouth disease,2,0.11
+O/E - pustules,2,0.11
+Annular erythema,2,0.11
+Melasma,2,0.11
+Cutaneous T Cell Lymphoma,2,0.11
+Melanocytic Nevus,2,0.11
+AKV - Acrokeratosis verruciformis,2,0.11
+Cutaneous metastasis,1,0.05
+Hyperpigmentation,1,0.05
+Onychodystrophy,1,0.05
+wound/abrasion,1,0.05
+Post-Inflammatory hypopigmentation,1,0.05
+Hemosiderin pigmentation of skin due to venous insufficiency,1,0.05
+Perforating dermatosis,1,0.05
+Blister,1,0.05
+Skin ulcer,1,0.05
+Condyloma acuminatum,1,0.05
+Grover's disease,1,0.05
+Foot ulcer,1,0.05
+Keratolysis exfoliativa,1,0.05
+Acute-on-chronic dyshidrotic eczema of hands,1,0.05
+Lymphangioma,1,0.05
+Erythema migrans,1,0.05
+Cheilitis,1,0.05
+Milia,1,0.05
+Localized skin infection,1,0.05
+Eruptive xanthoma,1,0.05
+Acne keloidalis,1,0.05
+Erythema gyratum repens,1,0.05
+Skin infection,1,0.05
+Chilblain,1,0.05
+Arsenical keratosis,1,0.05
+Foreign body reaction of the skin,1,0.05
+Lichenified eczema,1,0.05
+Knuckle pads,1,0.05
+TMEP - telangiectasia macularis eruptiva perstans,1,0.05
+Pityriasis lichenoides,1,0.05
+Traumatic blister,1,0.05
+HK - Hyperkeratosis,1,0.05
+Varicose veins of lower extremity,1,0.05
+Sunburn,1,0.05
+Erythema dyschromicum perstans,1,0.05
+Burn of skin,1,0.05
+varicose vein,1,0.05
+Inverse psoriasis,1,0.05
+"Contact dermatitis, NOS",1,0.05
+Poikiloderma,1,0.05
+Porokeratosis,1,0.05
+Cutaneous sarcoidosis,1,0.05
+O/E - vesicles present,1,0.05
+Pyogenic granuloma,1,0.05
+Acne urticata,1,0.05
+Lichenoid myxedema,1,0.05
+Elephantiasis nostras,1,0.05
+Traumatic ulcer,1,0.05
+B-Cell Cutaneous Lymphoma,1,0.05
+Actinic granuloma,1,0.05
+On examination - follicular pustules,1,0.05
+Leukonychia,1,0.05
+Melanin pigmentation due to exogenous substance,1,0.05
+Contact dermatitis caused by Rhus diversiloba,1,0.05
+Hemosiderin pigmentation of lower limb due to varicose veins of lower limb,1,0.05
+Epidermal nevus,1,0.05
+Deep fungal infection,1,0.05
+Ichthyosis,1,0.05
+Syphilis,1,0.05
+Majocchi granuloma,1,0.05
+Morbilliform eruption,1,0.05
+Acute constitutional eczema,1,0.05
+Agminate folliculitis,1,0.05
+Local infection of wound,1,0.05
+Poisoning by nematocyst,1,0.05
+Rheumatoid nodule,1,0.05
+Amyloidosis of skin,1,0.05
+Vasculitis of the skin,1,0.05
+Jessner lymphocytic infiltrate,1,0.05
+Ecthyma gangrenosum,1,0.05
+Prurigo,1,0.05
+unilateral laterothoracic exanthem,1,0.05
+Skin lesion in drug addict,1,0.05
+Vitiligo,1,0.05
+Pincer nail deformity,1,0.05
+Chicken pox exanthem,1,0.05
