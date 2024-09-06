@@ -20,8 +20,7 @@ The project uses a custom dataset derived from the SCIN (Skin Condition Image Ne
 * Self-reported demographic information, symptoms, and Fitzpatrick skin type
 * Dermatologist-labeled conditions and Fitzpatrick skin type
 
-
-![Screenshot 2024-09-06 at 12.42.09 PM.png](presentation/Screenshot 2024-09-06 at 12.42.09 PM.png)
+![Screenshot 2024-09-06 at 12.42.09 PM.png](https://github.com/sayeedahmed01/Medical_Image_Generator/blob/main/presentation/Screenshot%202024-09-06%20at%2012.42.09%E2%80%AFPM.png)
 
 ### Future Enhancements
 * Expand the dataset to include more diverse skin conditions and severity levels
