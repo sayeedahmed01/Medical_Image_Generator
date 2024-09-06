@@ -5,7 +5,6 @@ import base64
 from PIL import Image
 from io import BytesIO
 
-# Set the API URL to ngrok URL
 API_URL = "https://bdf6-34-19-97-136.ngrok-free.app"  # Replace with running ngrok URL
 
 @st.cache_data
